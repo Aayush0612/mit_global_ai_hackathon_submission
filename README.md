@@ -1,4 +1,4 @@
-# ⚡ Energy Document AI Copilot
+#  Energy Document AI Copilot
 
 MIT AI Global Hackathon Project
 
@@ -6,7 +6,7 @@ A powerful AI assistant for renewable energy developers that processes large vol
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - **Bulk Document Processing**: Handles 10,000+ pages or 100+ files simultaneously
 - **Natural Language Querying**: Ask questions about your documents in plain English
@@ -17,7 +17,7 @@ A powerful AI assistant for renewable energy developers that processes large vol
 
 ---
 
-## 📋 Use Cases
+##  Use Cases
 
 - **Contract Analysis**: Extract key terms from energy agreements
 - **Due Diligence**: Quickly verify information across multiple documents
@@ -26,7 +26,7 @@ A powerful AI assistant for renewable energy developers that processes large vol
 
 ---
 
-## 🛠 Technical Implementation
+##  Technical Implementation
 
 | Component             | Technology                                                      |
 |-----------------------|------------------------------------------------------------------|
@@ -39,7 +39,7 @@ A powerful AI assistant for renewable energy developers that processes large vol
 
 ---
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 - **Field Extraction Confidence**: 86% average across key fields
 - **Response Time**: 501ms mean response time
@@ -47,7 +47,7 @@ A powerful AI assistant for renewable energy developers that processes large vol
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -70,7 +70,7 @@ Query Documents: Ask natural language questions about your documents
 
 View Sources: Click on source links to view original documents
 
-🧠 How It Works
+ How It Works
 The system uses a Retrieval-Augmented Generation (RAG) architecture:
 
 Document Processing: PDFs and Excel files are chunked into semantic units
